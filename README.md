@@ -1,5 +1,7 @@
 # The-Crusader-s-Quest
 
+Download Python 3.8 or higher to run the game in Python.
+
 Game Manual (don't read below if you don't want mechanic spoilers):
 
 The manual will help you make sense of the game. The first part will be about everything associated with your character:
