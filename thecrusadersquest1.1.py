@@ -1367,7 +1367,7 @@ def damaged():
     v = random.randint(1, 20)
     n = random.randint(1, 3)
     hp = hp - v
-    hp_mechanic()
+    
     if n == 1:
         g = random.randint(1, 20)
         gold = gold + g
@@ -1390,7 +1390,8 @@ def damaged():
 
     
     input('Press enter to continue')
-
+    hp_mechanic()
+    
 ### Traveller ###
 def traveller():
     global gold
