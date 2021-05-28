@@ -12,7 +12,7 @@ Occupation: Determines any extra HP, any extra Martial Prowess, Starting and Max
 
 HP: If it goes to zero, you die.
 
-Martial Prowess: Your power in combat. A high Martial Prowess will make you invulnerable to damage. 
+Martial Prowess: Your power in combat. A high Martial Prowess will make you invulnerable to damage from enemies. 
 
 Consumption Rate: How much food you use every turn. If your food hits zero, you will start to use up Endurance.
 
